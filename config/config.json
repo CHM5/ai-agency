@@ -2,12 +2,12 @@
   "agents": {
     "defaults": {
       "provider": "gemini",
-      "model": "gemini-flash-latest",
+      "model": "gemini-flash-latest"
     }
   },
   "providers": {
     "gemini": {
-      "apiKey": "AIzaSyA_UAs_-tGUEnlYuih3O1dWBs4eFzwI4FU"
+      "apiKey": "AIzaSyA0iAxPH4H0c8DndbRcZMkAT2CLhEo5x2I"
     }
   },
   "channels": {
