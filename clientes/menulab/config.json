@@ -7,7 +7,7 @@
   },
   "providers": {
     "gemini": {
-      "apiKey": "AIzaSyA_UAs_-tGUEnlYuih3O1dWBs4eFzwI4FU"
+      "apiKey": ""
     }
   },
   "channels": {
