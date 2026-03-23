@@ -1,0 +1,34 @@
+{"_type": "metadata", "key": "whatsapp:137456787681410@lid", "created_at": "2026-03-23T00:24:04.141356", "updated_at": "2026-03-23T00:46:23.160994", "metadata": {}, "last_consolidated": 0}
+{"role": "user", "content": "Gh", "timestamp": "2026-03-23T00:24:04.966193"}
+{"role": "user", "content": "Y", "timestamp": "2026-03-23T00:26:38.415801"}
+{"role": "assistant", "content": "Hello! How can I help you today?🐈", "timestamp": "2026-03-23T00:26:38.415822"}
+{"role": "user", "content": "Quién SOS?", "timestamp": "2026-03-23T00:26:47.755818"}
+{"role": "assistant", "content": "¡Hola! Soy **nanobot 🐈**, tu asistente personal de IA.\n\nEstoy aquí para ayudarte con lo que necesites: desde responder preguntas y buscar información en la web, hasta organizar tus tareas, programar recordatorios o ayudarte con proyectos técnicos.\n\nSoy amable, directo y siempre trato de ser lo más útil posible. ¿En qué puedo ayudarte hoy? 😊", "timestamp": "2026-03-23T00:26:47.755836"}
+{"role": "user", "content": "Hay", "timestamp": "2026-03-23T00:32:34.964995"}
+{"role": "assistant", "content": "¡Hola! ¿En qué te puedo ayudar? Me dejaste con la duda de si ibas a preguntar algo más. 😊🐈", "timestamp": "2026-03-23T00:32:34.965020"}
+{"role": "user", "content": "Quién SOS", "timestamp": "2026-03-23T00:32:44.494426"}
+{"role": "assistant", "content": "¡Hola! Soy **nanobot 🐈**, tu asistente personal de IA.\n\nEstoy aquí para ayudarte con lo que necesites directamente desde WhatsApp. Puedo:\n\n*   🔍 Buscar información en la web.\n*   📅 Programar recordatorios y tareas.\n*   📝 Ayudarte a redactar o resumir textos.\n*   💻 Resolver dudas técnicas o de programación.\n*   🧠 Recordar cosas importantes que me pidas que guarde en mi memoria.\n\n¿En qué puedo darte una mano hoy? 😊", "timestamp": "2026-03-23T00:32:44.494446"}
+{"role": "user", "content": "Quién SOS", "timestamp": "2026-03-23T00:41:10.061140"}
+{"role": "assistant", "content": "¡Hola! Como te mencioné antes, soy **nanobot 🐈**, tu asistente personal de IA.\n\nEstoy diseñado para ayudarte con tareas cotidianas directamente aquí en WhatsApp. Puedo hacer cosas como:\n\n*   **Buscar información en tiempo real** en la web.\n*   **Programar recordatorios** (por ejemplo: \"Avisame mañana a las 10 am que compre café\").\n*   **Guardar datos importantes** en mi memoria para que no los olvides.\n*   **Ayudarte con textos**, resúmenes o traducciones.\n*   **Resolver dudas técnicas** o de programación.\n\n¿Hay algo específico que te gustaría probar o alguna duda que tengas ahora mismo? 😊", "timestamp": "2026-03-23T00:41:10.061168"}
+{"role": "user", "content": "Quién SOS?", "timestamp": "2026-03-23T00:42:18.590454"}
+{"role": "assistant", "content": "¡Hola! Soy Sofía, la recepcionista de **Estética Glow**. 💅✨ ¿En qué te puedo ayudar hoy?", "timestamp": "2026-03-23T00:42:18.590476"}
+{"role": "user", "content": "Dónde están ubicados?", "timestamp": "2026-03-23T00:42:38.406289"}
+{"role": "assistant", "content": "Estamos en Av. Córdoba 1234, Piso 9A (CABA). 📍✨", "timestamp": "2026-03-23T00:42:38.406305"}
+{"role": "user", "content": "Quisiera reservar un turno", "timestamp": "2026-03-23T00:42:52.359463"}
+{"role": "assistant", "content": "¡Qué bueno! 💅✨ Para agendarte, por favor pasame tu **nombre** y el **horario de preferencia**.\n\nUn humano confirmará la disponibilidad en breve. 😊", "timestamp": "2026-03-23T00:42:52.359479"}
+{"role": "user", "content": "Q servicios y precios ofrecen?", "timestamp": "2026-03-23T00:43:24.061257"}
+{"role": "assistant", "content": "¡Te paso nuestra lista de servicios y precios de marzo! 💅✨\n\n- Manicura Semipermanente: $12.000 ARS\n- Esculpidas (Acrílico/Gel): $18.000 ARS\n- Service/Mantenimiento: $10.000 ARS\n- Limpieza Facial Profunda: $25.000 ARS\n- Masaje Descontracturante (50 min): $30.000 ARS\n- Perfilado de Cejas: $8.000 ARS\n\n¿Te gustaría agendar alguno? 😊", "timestamp": "2026-03-23T00:43:24.061272"}
+{"role": "user", "content": "Hacen corte de pelo?", "timestamp": "2026-03-23T00:43:53.992394"}
+{"role": "assistant", "content": "No, por el momento no hacemos corte de pelo. 💅✨ Solo los servicios que te pasé antes. 😊", "timestamp": "2026-03-23T00:43:53.992410"}
+{"role": "user", "content": "Q productos usan para la limpieza facial?", "timestamp": "2026-03-23T00:44:29.536077"}
+{"role": "assistant", "content": "Usamos productos profesionales de primera línea para cuidar tu piel. 💅✨ ¿Te gustaría reservar un turno para la limpieza facial profunda ($25.000 ARS)? 😊", "timestamp": "2026-03-23T00:44:29.536092"}
+{"role": "user", "content": "Cuantos años tenes?", "timestamp": "2026-03-23T00:45:00.287149"}
+{"role": "assistant", "content": "¡Soy joven y siempre lista para ayudarte! 😉💅✨ ¿Te gustaría agendar algún servicio o consultar algún precio?", "timestamp": "2026-03-23T00:45:00.287164"}
+{"role": "user", "content": "Cuánto sale el cavado?", "timestamp": "2026-03-23T00:45:29.203807"}
+{"role": "assistant", "content": "No hacemos cavado por el momento. 💅✨ Solo los servicios que te pasé antes. 😊", "timestamp": "2026-03-23T00:45:29.203821"}
+{"role": "user", "content": "Y los masajes?", "timestamp": "2026-03-23T00:45:39.419754"}
+{"role": "assistant", "content": "El Masaje Descontracturante (50 min) sale $30.000 ARS. 💅✨ ¿Te gustaría reservar un turno? 😊", "timestamp": "2026-03-23T00:45:39.419769"}
+{"role": "user", "content": "Si el lunes a las 23h podría ser?", "timestamp": "2026-03-23T00:46:01.078824"}
+{"role": "assistant", "content": "Abrimos de Lunes a Viernes de 9:00 a 20:00 hs. 💅✨ ¿Me pasás tu **nombre** y otro **horario de preferencia** dentro de ese rango?\n\nUn humano confirmará la disponibilidad en breve. 😊", "timestamp": "2026-03-23T00:46:01.078840"}
+{"role": "user", "content": "Lucas lunes a las 16h ?", "timestamp": "2026-03-23T00:46:23.160974"}
+{"role": "assistant", "content": "¡Dale, Lucas! 💅✨ Agendado para el lunes a las 16:00 hs.\n\nUn humano confirmará la disponibilidad en breve. 😊", "timestamp": "2026-03-23T00:46:23.160989"}
